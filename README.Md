@@ -24,6 +24,9 @@ Users can enter any text or URL and instantly generate a QR code.
 
 ---
 
+LIVE DEMO:
+https://balaji71625.github.io/QR-Code-Generator/
+
 ## 🔗 API Used
 
 ```text
