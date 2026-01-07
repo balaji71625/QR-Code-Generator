@@ -62,15 +62,16 @@ body{
 #imgBox{
     max-height: 0;
     overflow: hidden;
-    transition: 0.4s;
+    transition: max-height 0.5s ease;
 }
 
 #imgBox.show-img{
-    max-height: 300px;
+    max-height: 500px; /* increased */
     margin-top: 15px;
     border: 1px solid #ddd;
     border-radius: 8px;
 }
+
 
 #imgBox img{
     width: 100%;
